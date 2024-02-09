@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @xxabhishek
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning full stack development 
+- 👀 learner 
+- 📚 explorer
+- 👨🏻‍💻 maker
 - 💞️ I’m looking to collaborate on to create a best project ...
   
 
